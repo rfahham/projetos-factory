@@ -6,4 +6,4 @@ $ npm install esm
 
 Executar
 
-node -r esm index.js
+$ npm run start
